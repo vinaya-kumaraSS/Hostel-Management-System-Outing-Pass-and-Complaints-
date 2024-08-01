@@ -117,16 +117,23 @@ For any inquiries or support, please contact [Vinayakumara S S](mailto:vinaykuma
 | Image | Image |
 |-------|-------|
 | ![Image 1](https://github.com/vinaya-kumaraSS/hostel_management/blob/main/student%20login.png) | ![Image 2](https://github.com/vinaya-kumaraSS/hostel_management/blob/main/student%20landing.png) |
-| **Title 1** | **Title 2** |
+| **Student Login** | **Student Landing Page** |
+| Students can log in to the system using their credentials. | This is the landing page for students after logging in. |
 | ![Image 3](https://github.com/vinaya-kumaraSS/hostel_management/blob/main/student%20reset%20password.png) | ![Image 4](https://github.com/vinaya-kumaraSS/hostel_management/blob/main/student%20profile.png) |
-| **Title 3** | **Title 4** |
+| **Reset Password** | **Student Profile** |
+| Students can reset their passwords if they forget them. | Students can view and update their profile information. |
 | ![Image 5](https://github.com/vinaya-kumaraSS/hostel_management/blob/main/add%20outing.png) | ![Image 6](https://github.com/vinaya-kumaraSS/hostel_management/blob/main/add%20complaints.png) |
-| **Title 5** | **Title 6** |
+| **Apply for Outing Pass** | **Apply Complaint** |
+| Students can request outing passes through this form. | Students can lodge complaints directly through this form. |
 | ![Image 7](https://github.com/vinaya-kumaraSS/hostel_management/blob/main/manager%20login.png) | ![Image 8](https://github.com/vinaya-kumaraSS/hostel_management/blob/main/manager%20landing1.png) |
-| **Title 7** | **Title 8** |
+| **Manager Login** | **Manager Landing Page** |
+| Managers can log in using their credentials to access the dashboard. | This is the landing page for managers after logging in. |
 | ![Image 9](https://github.com/vinaya-kumaraSS/hostel_management/blob/main/manager%20landing2.png) | ![Image 10](https://github.com/vinaya-kumaraSS/hostel_management/blob/main/add%20students.png) |
-| **Title 9** | **Title 10** |
+| **Manager Dashboard** | **Add Students** |
+| Managers can view and manage all operations from this dashboard. | Managers can add new students to the system through this form. |
 | ![Image 11](https://github.com/vinaya-kumaraSS/hostel_management/blob/main/view%20outing.png) | ![Image 12](https://github.com/vinaya-kumaraSS/hostel_management/blob/main/view%20complaints.png) |
-| **Title 11** | **Title 12** |
+| **View Outing Pass Requests** | **View Complaints** |
+| Managers can view and approve/reject outing pass requests. | Managers can view and manage complaints lodged by students. |
 | ![Image 13](https://github.com/vinaya-kumaraSS/hostel_management/blob/main/view%20outing%20History.png) | ![Image 14](https://github.com/vinaya-kumaraSS/hostel_management/blob/main/view%20complaints%20History.png) |
-| **Title 13** | **Title 14** |
+| **Outing Pass History** | **Complaints History** |
+| Managers can view the history of all outing pass requests. | Managers can view the history of all complaints lodged by students. |
