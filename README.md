@@ -119,7 +119,7 @@ For any inquiries or support, please contact [Vinayakumara S S](mailto:vinaykuma
 | ![Image 1](https://github.com/vinaya-kumaraSS/hostel_management/blob/main/student%20login.png) | Title 1 | ![Image 2](https://github.com/vinaya-kumaraSS/hostel_management/blob/main/student%20landing.png) | Title 2 |
 | ![Image 3](https://github.com/vinaya-kumaraSS/hostel_management/blob/main/student%20reset%20password.png) | Title 3 | ![Image 4](https://github.com/vinaya-kumaraSS/hostel_management/blob/main/student%20profile.png)| Title 4 |
 | ![Image 5](https://github.com/vinaya-kumaraSS/hostel_management/blob/main/add%20outing.png) | Title 5 | ![Image 6](https://github.com/vinaya-kumaraSS/hostel_management/blob/main/add%20complaints.png) | Title 6 |
-| ![Image 7](path/to/image7.png) | Title 7 | ![Image 8](path/to/image8.png) | Title 8 |
-| ![Image 9](path/to/image9.png) | Title 9 | ![Image 10](path/to/image10.png) | Title 10 |
+| ![Image 7](https://github.com/vinaya-kumaraSS/hostel_management/blob/main/manager%20login.png) | Title 7 | ![Image 8](https://github.com/vinaya-kumaraSS/hostel_management/blob/main/manager%20landing1.png) | Title 8 |
+| ![Image 9](https://github.com/vinaya-kumaraSS/hostel_management/blob/main/manager%20landing2.png)](https://github.com/vinaya-kumaraSS/hostel_management/blob/main/manager%20landing2.png) | Title 9 | ![Image 10](path/to/image10.png) | Title 10 |
 | ![Image 11](path/to/image11.png) | Title 11 | ![Image 12](path/to/image12.png) | Title 12 |
 | ![Image 13](path/to/image13.png) | Title 13 | ![Image 14](path/to/image14.png) | Title 14 |
