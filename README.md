@@ -116,7 +116,8 @@ For any inquiries or support, please contact [Vinayakumara S S](mailto:vinaykuma
 
 | Image | Title |
 |-------|-------|
-| ![Image 1](path/to/image1.png) | Title 1 |
+| ![Image 1](https://github.com/user-attachments/assets/93192c5f-5e46-4108-90a5-56c72474c018)
+) | Title 1 |
 | ![Image 2]([student login.png]()) | Title 2 |
 | ![Image 3]([path/to/image3.png](https://github.com/vinaya-kumaraSS/hostel_management/blob/main/student%20login.png)) | Title 3 |
 | ![Image 4](path/to/image4.png) | Title 4 |
