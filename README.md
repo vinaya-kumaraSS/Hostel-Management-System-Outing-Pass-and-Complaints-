@@ -117,7 +117,7 @@ For any inquiries or support, please contact [Vinayakumara S S](mailto:vinaykuma
 | Image | Title | Image | Title |
 |-------|-------|-------|-------|
 | ![Image 1](https://github.com/vinaya-kumaraSS/hostel_management/blob/main/student%20login.png) | Title 1 | ![Image 2](https://github.com/vinaya-kumaraSS/hostel_management/blob/main/student%20landing.png) | Title 2 |
-| ![Image 3](https://github.com/vinaya-kumaraSS/hostel_management/blob/main/student%20login.png) | Title 3 | ![Image 4](path/to/image4.png) | Title 4 |
+| ![Image 3](https://github.com/vinaya-kumaraSS/hostel_management/blob/main/student%20reset%20password.png) | Title 3 | ![Image 4](path/to/image4.png) | Title 4 |
 | ![Image 5](path/to/image5.png) | Title 5 | ![Image 6](path/to/image6.png) | Title 6 |
 | ![Image 7](path/to/image7.png) | Title 7 | ![Image 8](path/to/image8.png) | Title 8 |
 | ![Image 9](path/to/image9.png) | Title 9 | ![Image 10](path/to/image10.png) | Title 10 |
